@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/AlexanderKochish?logo=github&style=
 
 <p align="left"> <a href="https://discord.com/users/alexandr_front_end" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AlexanderKochish" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alexander-kochish-68a48b266" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<p align="center">Badges</p>
 
 <p align="center"><b>My GitHub Stats</b></p>
 
@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/AlexanderKochish?logo=github&style=
 
 <p align="center"><b align="center">Top Repositories</b></p>
 
-<p align="center"><a href="https://github.com/AlexanderKochish/users-test-task"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderKochish&repo=users-test-task&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en" /></a></p><br /><br /><br /><br /><br /><br /><br />
+<p align="center"><a href="https://github.com/AlexanderKochish/users-test-task"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderKochish&repo=users-test-task&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en" /></a></p>
