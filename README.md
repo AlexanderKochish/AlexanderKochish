@@ -30,9 +30,8 @@ src="https://img.shields.io/github/followers/AlexanderKochish?logo=github&style=
 
 <p align="center"><a href="https://github.com/AlexanderKochish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKochish&langs_count=10&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
-<p align="center"><a href="http://www.github.com/AlexanderKochish"><img src="https://github-readme-stats.vercel.app/api?username=AlexanderKochish&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="AlexanderKochish's GitHub stats" /></a>
-
-<a href="http://www.github.com/AlexanderKochish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderKochish&stroke=f97316&background=000000&ring=84cc16&fire=84cc16&currStreakNum=f97316&currStreakLabel=84cc16&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a></p>
+<div width="100%"><a href="http://www.github.com/AlexanderKochish"><img src="https://github-readme-stats.vercel.app/api?username=AlexanderKochish&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="AlexanderKochish's GitHub stats" /></a>
+<a href="http://www.github.com/AlexanderKochish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderKochish&stroke=f97316&background=000000&ring=84cc16&fire=84cc16&currStreakNum=f97316&currStreakLabel=84cc16&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a></div>
 
 <b>Top Repositories</b>
 
