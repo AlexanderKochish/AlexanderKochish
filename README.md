@@ -1,7 +1,7 @@
 <img src="https://www.codewars.com/users/AlexanderKochish/badges/1_14JB0EgX9j9i08-wyDwmTg.gif" alt="Alex CodeWars">
 =========================================================================================================================================
 
-Front-End Developer <img src="https://www.codewars.com/users/AlexanderKochish/badges/large" alt="Alex CodeWars">
+I`m a Front-End Developer
 -------------------
 
 I've been studying code for 2 years. I love coding and developing in this direction.
