@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/AlexanderKochish/badges/1_14JB0EgX9j9i08-wyDwmTg.gif" alt="Alex CodeWars">
+[![Header](https://github.com/AlexanderKochish/AlexanderKochish/blob/main/assets/1_14JB0EgX9j9i08-wyDwmTg.gif)]
 =========================================================================================================================================
 
 I`m a Front-End Developer
