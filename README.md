@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexanderKochish/AlexanderKochish/blob/main/assets/1_14JB0EgX9j9i08-wyDwmTg.gif)]
+![Header](https://github.com/AlexanderKochish/AlexanderKochish/blob/main/assets/1_14JB0EgX9j9i08-wyDwmTg.gif)
 =========================================================================================================================================
 
 I`m a Front-End Developer
