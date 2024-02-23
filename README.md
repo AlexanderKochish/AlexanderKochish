@@ -38,3 +38,4 @@ src="https://img.shields.io/github/followers/AlexanderKochish?logo=github&style=
 <p align="center"><b align="center">Top Repositories</b></p>
 
 <p align="center"><a href="https://github.com/AlexanderKochish/users-test-task"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderKochish&repo=users-test-task&title_color=84cc16&text_color=f97316&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en" /></a></p>
+<img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/high-contrast.png" alt="Graph"/>
