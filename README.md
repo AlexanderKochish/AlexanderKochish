@@ -1,5 +1,7 @@
 ![Header](https://blog.exchange.art/content/images/2023/05/2de9f837-1b77-44ce-9295-db722e22d666.gif)
+
 =====================
+
 Hi! My name is Alexander Kochish
 -------------------
 I`m a Front-End Developer
@@ -15,6 +17,7 @@ I've been studying code for 2 years. I love coding and developing in this direct
 
 <a href="https://www.github.com/AlexanderKochish" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AlexanderKochish?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
