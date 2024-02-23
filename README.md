@@ -1,7 +1,5 @@
 ![Header](https://github.com/AlexanderKochish/AlexanderKochish/blob/main/assets/2de9f837-1b77-44ce-9295-db722e22d666.gif)
-
 =====================
-
 Hi! My name is Alexander Kochish
 -------------------
 I`m a Front-End Developer
